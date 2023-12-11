@@ -1,0 +1,19 @@
+.listaM{
+    padding-left: 300px;
+}
+
+.footer{
+    padding: 50px;
+    background-color: slategrey;
+    color: white;
+    text-align: center;
+}
+
+.imgC{
+    padding-bottom: 80px;
+}
+
+.col-md-6{
+    padding-top: 120px;
+    padding-right: 400px;
+}
